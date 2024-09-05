@@ -9,5 +9,10 @@ Ticket - [PE-XXX]
 - [ ] security impact concidered
 
 ## Testing
-
+### e2e/manual testing
 - [ ] add a checklist with a plan on testing the PR
+### Unit testing
+- [ ] unit test implemented
+- [ ] code coverage not dropped significantly
+### Integration testing
+- [ ] integration test implemented
